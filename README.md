@@ -61,8 +61,7 @@ Analyzes transverse plane motion using `X` and `Y`-axis projections.
 ## 📷 Example Output
 
 
-## 📝 Notes
-
+## IMPORTANT
 *Due to the collaborative nature of this project, only code and components I directly worked on are included.*
 
 ---

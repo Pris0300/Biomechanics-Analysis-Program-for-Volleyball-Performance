@@ -1,4 +1,4 @@
-# Biomechanics Analysis Program for Volleyball Performance
+#🦿 Biomechanics Analysis Program for Volleyball Performance
 
 This repository contains MATLAB scripts for analyzing joint angles during a jump-based motion capture experiment. Each script processes movement data to extract angles related to:
 

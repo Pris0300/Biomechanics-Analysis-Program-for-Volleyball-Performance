@@ -18,6 +18,7 @@ This program was developed as part of a group collaboration. I contributed to:
 - MATLAB
 - Signal processing techniques
 - Biomechanical modeling principles
+- Vicon motion capture system for 3D kinematic data acquisition
 
 ## 📁 Files Included
 
@@ -59,7 +60,12 @@ Analyzes transverse plane motion using `X` and `Y`-axis projections.
 - Tested in MATLAB R2023a.
 
 ## 📷 Example Output
-
+- **Flexion-Extension**
+  ![image](https://github.com/user-attachments/assets/06e16e59-bc3e-4c34-b19c-f1dbd7bd40a1)
+- **Abduction-Adduction**
+  ![image](https://github.com/user-attachments/assets/0f4811bd-049f-40b2-9ec9-431e53976705)
+- **Rotation**
+  ![image](https://github.com/user-attachments/assets/fdf8842f-55dc-49e9-b457-0a5c4bb2715b)
 
 ## IMPORTANT
 *Due to the collaborative nature of this project, only code and components I directly worked on are included.*
